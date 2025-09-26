@@ -6,6 +6,9 @@
 - `real_agricultural_analysis.py` - Your working real data analysis system
 - `hyperspectral_analyzer.py` - Advanced hyperspectral image analysis
 - `enhanced_agricultural_system.py` - Integrated analysis system
+- 
+### Front End
+- https://github.com/xanderbilla/sih-hack-the-box
 
 ### Data Files  
 - `aviris150.mat` - Hyperspectral image data (150x150x186 bands)
